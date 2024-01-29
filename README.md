@@ -49,5 +49,5 @@ Hashing enables constant-time lookup of variables, optimizing performance when p
 
 ![image](https://github.com/elvis-b/Smart_Calculator/assets/57047129/82c5658f-002e-4604-bea5-8f4c8eed11c3)
 
-![image](https://github.com/elvis-b/Smart_Calculator/assets/57047129/0170cf5e-2de8-42a4-a362-15e6939755ea)
+![image](https://github.com/elvis-b/Smart_Calculator/assets/57047129/3e11b492-03cb-4770-aee3-ce80d9ed7ee8)
 
