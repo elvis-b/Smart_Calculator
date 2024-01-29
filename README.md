@@ -46,3 +46,8 @@ The algorithm iterates through the postfix expression, pushing operands onto the
 
 Variables are stored in a hashmap data structure, allowing for fast retrieval and modification of variable values during computation.
 Hashing enables constant-time lookup of variables, optimizing performance when processing expressions involving multiple variables.
+
+![image](https://github.com/elvis-b/Smart_Calculator/assets/57047129/82c5658f-002e-4604-bea5-8f4c8eed11c3)
+
+![image](https://github.com/elvis-b/Smart_Calculator/assets/57047129/0170cf5e-2de8-42a4-a362-15e6939755ea)
+
